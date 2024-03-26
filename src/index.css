@@ -1,0 +1,9 @@
+*,
+*::after,
+*::befor{
+  box-sizing: border-box;
+}
+
+*{
+  font-family: arial;
+}

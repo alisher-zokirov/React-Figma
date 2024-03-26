@@ -1,0 +1,39 @@
+.ads-box1{
+    background-image: url(../../assets/ads1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 555px;
+    height: 300px;      
+}
+
+.ads-box2{
+    background-image: url(../../assets/ads2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 555px;
+    height: 300px;      
+}
+
+.ads-box3{
+    background-image: url(../../assets/ads3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 555px;
+    height: 300px;      
+}
+
+.ads-box4{
+    background-image: url(../../assets/ads4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 555px;
+    height: 300px;      
+}
+
+.ads-all{
+    height: 100vh;
+}
+
+.boxes1{
+    margin-left: 290px;
+}
